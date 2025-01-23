@@ -12,7 +12,7 @@ Boostrap ile Tasarım: Grid sistemi ile Boostrap komponentleri kullanılarak gel
 
 Modern ve Temiz Kodlama: Proje sırasında en iyi uygulamalar benimsemiştir.
 
-<h1>Kullanılan Teknolojiler
+<h1>Kullanılan Teknolojiler</h1>
 
  -Html5
 
